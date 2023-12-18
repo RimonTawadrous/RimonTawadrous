@@ -4,7 +4,7 @@
 
 Sofware Engineer with 3+ years of professional experience as a full-stack engineer using various technologies.
 
-- 🌍  I'm based in Dallas, Tx
+- 🌍  I'm based in Fort Worth, Tx
 - ✉️  You can contact me at [RimonTawadrous@gmail.com](mailto:RimonTawadrous@gmail.com)
 - 🧠  I'm learning AWS Architecture Associate Certificate
 - ⚡  Engineer in morning and gamer by night
