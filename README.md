@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-Sofware Engineer with 3+ years of professional experience as a full-stack engineer using various technologies.
+Sofware Engineer with 5+ years of professional experience as a full-stack engineer using various technologies.
 
 - 🌍  I'm based in Fort Worth, Tx
 - ✉️  You can contact me at [RimonTawadrous@gmail.com](mailto:RimonTawadrous@gmail.com)
